@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[spielbelaberung]]></title>
         <description><![CDATA[spielbelaberung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spielbelaberung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 12:58:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 13:00:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spielbelaberung/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5cfeada-988b-4dec-88a5-b100a20bd90c.jpg">]]></description>
-            <link>undefined24cc8f05-117d-45eb-85e8-7f71c67e94d0/index.html</link>
+            <link>https://thegrid.ai/spielbelaberung/24cc8f05-117d-45eb-85e8-7f71c67e94d0/index.html</link>
             <guid isPermaLink="false">24cc8f05-117d-45eb-85e8-7f71c67e94d0</guid>
-            <pubDate>Sun, 10 Apr 2016 12:58:15 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 13:00:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
