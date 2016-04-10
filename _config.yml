@@ -1,7 +1,7 @@
 name: spielbelaberung
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.65161
+layout_spectrum: 0.4026706318836659
+typography_spectrum: 0.2742291565518826
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#5ea9d7'
-    - '#464646'
-    - '#1d1b1c'
-    - '#c1c1c1'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0
-  rhythmicContrast: 0
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.21981866820715368
+  lightness: 0.3960607941262424
+  saturation: 0.9705065437592566
+  rhythmicContrast: 0.30978439236059785
 purpose: []
